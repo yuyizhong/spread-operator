@@ -4,7 +4,7 @@
  */
 
 // No spread operator
-
+let arr1 =
 // Copying an array
 
 // Copying an object
